@@ -1,3 +1,3 @@
 Book my Space
 
-some description
+A web application for booking parking slots online and managing.
