@@ -10,4 +10,4 @@ availability and users choice for distance, price, duration, time, date. Any par
  - **Platform Admin**:  a system admin who can see all the details no of bookings month wise, total transaction flow, and manage all the users, their details etc. There is also some addition features such as any user can change their passwords, sms & email alerts of bookings, add to favorites, write review, view on google maps.
 
 ## Screen-Shots:
-![login page](Screenshots/Screenshot (425).png)
+![Screenshots/Screenshot (425).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(425).png)
