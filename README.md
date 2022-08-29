@@ -10,4 +10,21 @@ availability and users choice for distance, price, duration, time, date. Any par
  - **Platform Admin**:  a system admin who can see all the details no of bookings month wise, total transaction flow, and manage all the users, their details etc. There is also some addition features such as any user can change their passwords, sms & email alerts of bookings, add to favorites, write review, view on google maps.
 
 ## Screen-Shots:
+
+![Screenshots/Screenshot (4).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(4).png)
+![Screenshots/Screenshot (5).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(5).png)
+### Home page (for logged in customers) with recent bookings if any.
+
+![Screenshots/Screenshot (6).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(6).png)
+![Screenshots/Screenshot (11).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(11).png)
+### search results
+
 ![Screenshots/Screenshot (425).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(425).png)
+![Screenshots/Screenshot (426).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(426).png)
+### login with choice for user type
+
+![Screenshots/Screenshot (427).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(427).png)
+### sign-up
+
+![Screenshots/Screenshot (425).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(425).png)](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/%7B75B418BB-E438-444F-BC56-5CB6744604B2%7D.png.jpg)
+### update details
