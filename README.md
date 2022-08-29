@@ -22,8 +22,15 @@ availability and users choice for distance, price, duration, time, date. Any par
 ![Screenshots/Screenshot (425).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(425).png)
 ![Screenshots/Screenshot (426).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(426).png)
 
- - sign-up
-![Screenshots/Screenshot (427).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(427).png)
+- parking lot details & booking page
+![Screenshots/Screenshot (433).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(433).png)
 
- - update parking lot details
-![Screenshots/Screenshot (425).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/%7B75B418BB-E438-444F-BC56-5CB6744604B2%7D.png.jpg)
+- previous bookings for (a) customer (b) parking lot manager account
+![Screenshots/Screenshot (12).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(12).png)
+![Screenshots/Screenshot (16).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(16).png)
+
+ - Parking Lot manager can see all the transaction data and current bookings and free spots
+ ![Screenshots/Screenshot (15).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(15).png)
+ 
+  - Platform admin can see all the data, no of users, bookings month wise, manage users nad their transactions.
+ ![Screenshots/Screenshot (14).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(14).png)
