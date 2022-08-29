@@ -9,6 +9,8 @@ availability and users choice for distance, price, duration, time, date. Any par
  - **Parking Lot Managers**: those users who own a parking lot can signup and register their parking lot on the platform (by filling the details such as booking price, no of spots in the parking lot, timings) and then they can manage all the bookings, billings etc by logging IN in their account. 
  - **Platform Admin**:  a system admin who can see all the details no of bookings month wise, total transaction flow, and manage all the users, their details etc. There is also some addition features such as any user can change their passwords, sms & email alerts of bookings, add to favorites, write review, view on google maps.
 
+ **Youtube Link**: [https://www.youtube.com/watch?v=4zcHGX4vwME](https://www.youtube.com/watch?v=4zcHGX4vwME)
+ 
 ## Screen-Shots:
  - Home page (for logged in customers) with recent bookings if any.
 ![Screenshots/Screenshot (4).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(4).png)
@@ -35,4 +37,4 @@ availability and users choice for distance, price, duration, time, date. Any par
   - Platform admin can see all the data, no of users, bookings month wise, manage users nad their transactions.
  ![Screenshots/Screenshot (14).png](https://github.com/arib-ashhar/BookMySpace/blob/main/Screenshots/Screenshot%20(14).png)
  
- **Youtube Link**: [https://www.youtube.com/watch?v=4zcHGX4vwME](https://www.youtube.com/watch?v=4zcHGX4vwME)
+
